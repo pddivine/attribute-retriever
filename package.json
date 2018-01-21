@@ -1,0 +1,19 @@
+{
+  "name": "attribute-retriever",
+  "version": "0.0.1",
+  "description": "A library for safely retrieving nested attributes from an object in a single invocation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pddivine/attribute-retriever.git"
+  },
+  "author": "Patrick Divine",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/pddivine/attribute-retriever/issues"
+  },
+  "homepage": "https://github.com/pddivine/attribute-retriever#readme"
+}
