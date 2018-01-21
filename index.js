@@ -16,9 +16,7 @@ function attributeRetriever(path) {
         continue;  
     }
 
-    console.log('pathElements', pathElements[i])
     attribute = attribute[pathElements[i]];
-    console.log('attr', attribute)
     
     if (attribute === undefined) { break; }
 
